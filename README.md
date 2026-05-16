@@ -1,7 +1,11 @@
 Sofija Stojanovska 243008
 
 
-2.
+2. <h3>Borrow Book</h3>
+<img src="borrowBook.jpg" width="500">
+
+<h3>Search Book Diagram</h3>
+<img src="searchBookByTitleDiagram.jpg" width="500">
 
 3. 
 addBook(Book book): Predicate Nodes = 0; Cyclomatic complexity = 0 + 1 = 1
